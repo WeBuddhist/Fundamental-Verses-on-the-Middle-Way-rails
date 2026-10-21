@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/དབུ་མ་རྩ་བ་ཤེས་རབ་ཀྱི་འགྲེལ་བ་འཐད་པའི་རྒྱན།.md",
+                "file": "1-SOURCES/Text/དབུ་མ་རྩ་བའི་ཚིག་ལེའུར་བྱས་པ་ཤེས་རབ་ཅེས་བྱ་བ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "དབུ་མ་རྩ་བ་ཤེས་རབ་ཀྱི་འགྲེལ་བ་འཐད་པའི་རྒྱན།"
+              "title": "དབུ་མ་རྩ་བའི་ཚིག་ལེའུར་བྱས་པ་ཤེས་རབ་ཅེས་བྱ་བ།"
             }
           }
         ]
@@ -193,24 +193,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
   "active": "6be419a28f3fbd6f",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/དབུ་མ་རྩ་བ་ཤེས་རབ་ཀྱི་འགྲེལ་བ་འཐད་པའི་རྒྱན།.md",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Text/དབུ་མ་རྩ་བའི་ཚིག་ལེའུར་བྱས་པ་ཤེས་རབ་ཅེས་བྱ་བ།.md",
     "1-SOURCES/Commentaries/དབུ་མ་རྩ་བའི་འགྲེལ་པ་ཚིག་གསལ་བ་ཞེས་བྱ་བ།.md",
     "1-SOURCES/Commentaries/དབུ་མ་རྩ་བའི་ཚིག་ལེའུར་བྱས་པ་ཤེས་རབ་ཅེས་བྱ་བའི་རྣམ་བཤད་རིགས་པའི་རྒྱ་མཚོ།.md",
-    "1-SOURCES/Commentaries/དབུ་མ་རྩ་བ་ཤེས་རབ་ཀྱི་འགྲེལ་བ་འཐད་པའི་རྒྱན།.md",
     "1-SOURCES/Commentaries/tshig_gsal.md",
     "1-SOURCES/Commentaries/thad_pa_rgyan.md",
     "1-SOURCES/Commentaries/rigs_pa_rgya_mtsho.md",
     "1-SOURCES/Text/དབུ་མ་རྩ་བ་ཤོ་ལོ་ཀ་བཅད་པ།.md",
     "README.md",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks",
@@ -232,7 +233,6 @@
     "4-SYSTEM/Skills/property-creator/SKILL.md",
     "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
     "4-SYSTEM/Skills/local-wiki-article/SKILL.md",
-    "4-SYSTEM/Skills/json-to-commentary/SKILL.md",
-    "4-SYSTEM/Skills/glossary-select/SKILL.md"
+    "4-SYSTEM/Skills/json-to-commentary/SKILL.md"
   ]
 }
